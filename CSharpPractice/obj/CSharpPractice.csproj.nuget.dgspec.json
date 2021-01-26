@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ANZELIX\\source\\repos\\CSharpPractice\\CSharpPractice\\CSharpPractice.csproj": {}
+    "C:\\CSharpPractice nanu\\CSharpPractice\\CSharpPractice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ANZELIX\\source\\repos\\CSharpPractice\\CSharpPractice\\CSharpPractice.csproj": {
+    "C:\\CSharpPractice nanu\\CSharpPractice\\CSharpPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ANZELIX\\source\\repos\\CSharpPractice\\CSharpPractice\\CSharpPractice.csproj",
+        "projectUniqueName": "C:\\CSharpPractice nanu\\CSharpPractice\\CSharpPractice.csproj",
         "projectName": "CSharpPractice",
-        "projectPath": "C:\\Users\\ANZELIX\\source\\repos\\CSharpPractice\\CSharpPractice\\CSharpPractice.csproj",
-        "packagesPath": "C:\\Users\\ANZELIX\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ANZELIX\\source\\repos\\CSharpPractice\\CSharpPractice\\obj\\",
+        "projectPath": "C:\\CSharpPractice nanu\\CSharpPractice\\CSharpPractice.csproj",
+        "packagesPath": "C:\\Users\\12144\\.nuget\\packages\\",
+        "outputPath": "C:\\CSharpPractice nanu\\CSharpPractice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ANZELIX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\12144\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

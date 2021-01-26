@@ -13,5 +13,7 @@ namespace CSharpPractice
               
             Console.WriteLine("Total price is " + total_price);
         }
+        string a = "prabha";
     }
+  
 }
